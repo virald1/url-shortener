@@ -321,7 +321,7 @@ button:hover {
     border-radius: 30px;
 }
 .intro__image {
-    background: url(images/illustration-working.svg) no-repeat;
+    background: url(illustration-working.svg) no-repeat;
     background-size: contain;
     width: 55%;
     height: 500px;
