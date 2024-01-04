@@ -44,3 +44,4 @@ For the social icons, you can either use the SVGs provided or a font icon librar
 - [IcoMoon](https://icomoon.io)
 - [Ionicons](https://ionicons.com)
 - [Ionicons](https://ionicons.com)
+- [Ionicons](https://ionicons.com)
